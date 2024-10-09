@@ -13,9 +13,15 @@ Datasets:
 
 
 
+
 ## References
 <a id="1">[1]</a> 
 Dietmair, Stefanie and Hodson, Mark P and Quek, Lake-Ee and Timmins, Nicholas E and Gray, Peter and Nielsen, Lars K
 A multi-omics analysis of recombinant protein production in Hek293 cells
 PLOS One. 2012; https://doi.org/10.1371/journal.pone.0043394
+
+<a id="2">[2]</a> 
+Robinson, Jonathan L., et al. 
+An atlas of human metabolism.
+Science signaling 13.624 (2020): eaaz1482.
 
